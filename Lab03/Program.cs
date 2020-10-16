@@ -11,7 +11,7 @@ namespace Lab03
         static void Main(string[] args)
         {
 
-            var path = @"C:\Users\Nils\Pictures\covid.png";
+            var path = @"C:\Users\MyUser\Pictures\test.bmp"; //Insert path to file here.
             var fs = new FileStream(path, FileMode.Open);
             var fileSize = fs.Length;
             var data = new byte[fileSize];
@@ -30,7 +30,7 @@ namespace Lab03
                 string[] hexHeight = { binArray[20], binArray[21], binArray[22], binArray[23] };
                 int decWidth = CalculatePngSize(hexWidth);
                 int decHeight = CalculatePngSize(hexHeight);
-                Console.WriteLine($"Det är en .png fil och måttet är {decWidth}x{decHeight}");
+                Console.WriteLine($"It is a .png file with the size: {decWidth}x{decHeight} pixels");
             }
 
             else if (CheckBmp(binArray))
@@ -39,10 +39,10 @@ namespace Lab03
                 string[] hexHeight = { binArray[22], binArray[23], binArray[24], binArray[25] };
                 int decWidth = CalculateBmpSize(hexWidth);
                 int decHeight = CalculateBmpSize(hexHeight);
-                Console.WriteLine($"Det är en .bmp fil och måttet är {decWidth}x{decHeight}");
+                Console.WriteLine($"It is a .bmp file with the size: {decWidth}x{decHeight} pixels");
             }
 
-            else Console.WriteLine("Ogiltligt filformat!");
+            else Console.WriteLine("Invalid file format! Check if file has .bmp or .png extension!");
         }
 
         public static bool CheckPng(string[] binArray)

@@ -1,0 +1,13 @@
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.exe
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.deps.json
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.runtimeconfig.json
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.runtimeconfig.dev.json
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.dll
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\bin\Debug\netcoreapp3.1\Lab03.pdb
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.csprojAssemblyReference.cache
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.AssemblyInfoInputs.cache
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.AssemblyInfo.cs
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.dll
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.pdb
+C:\Users\Nils\Documents\C#\labbar\Lab03\Lab03\obj\Debug\netcoreapp3.1\Lab03.genruntimeconfig.cache
